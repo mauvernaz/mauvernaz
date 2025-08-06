@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Matheus 👋
 
-<!--
-**mauvernaz/mauvernaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at **Universiade Federal Fluminense** and software developer focused on **Java back-end development**.
 
-Here are some ideas to get you started:
+- 💻 Working mainly with: Java (Spring Boot)
+- 🌐 Also interested in: automation, systems design, and the philosophy of software
+- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/malvernaz/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mauvernaz&show_icons=true&theme=github_dark&hide_title=true&count_private=true" alt="mauvernaz's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauvernaz&layout=compact&theme=github_dark&hide_title=true&langs_count=6" alt="Most used languages" height="150"/>
+</p>
+
+---
