@@ -1,18 +1,38 @@
-# Hi there, I'm Matheus 👋
+# 😎 Matheus Alvernaz 👍
+
+**`Back-end Developer`**
 
 I'm a student at **Universiade Federal Fluminense** and software developer focused on **Java back-end development**.
 
 - 💻 Working mainly with: Java (Spring Boot)
+- 📚 Studying Information Systems (UFF)
 - 🌐 Also interested in: automation, systems design, and the philosophy of software
 - 📫 Find me on [LinkedIn](https://www.linkedin.com/in/malvernaz/)
 
 ---
+### 🧰 Languages and Tools
 
-## 📊 GitHub Stats
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mauvernaz&show_icons=true&theme=github_dark&hide_title=true&count_private=true" alt="mauvernaz's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauvernaz&layout=compact&theme=github_dark&hide_title=true&langs_count=6" alt="Most used languages" height="150"/>
-</p>
+            
+<br>
+
+---
+### 📊 Stats
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=mauvernaz&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&include_all_commits=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauvernaz&layout=compact&theme=tokyonight&hide_title=true&langs_count=6" height="150" />
+</div>
 
 ---
