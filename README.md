@@ -37,12 +37,4 @@ I'm a student at **Universiade Federal Fluminense** and software developer focus
             
 <br>
 
----
-### 📊 Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mauvernaz&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauvernaz&layout=compact&theme=tokyonight&hide_title=true&langs_count=6" height="150" />
-</div>
-
----
