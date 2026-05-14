@@ -2,8 +2,8 @@
 
 **`Software Engineer`**
 
-I'm a student at **Universidade Federal Fluminense** and software engineer focused on **Java back-end development**.
-Additionally, I run a business providing on-demand software solutions for other businesses.
+I'm a student at **Universidade Federal Fluminense** and software engineer focused on **Java back-end development**.<br>
+Additionally, I run a **business providing on-demand software solutions for other businesses**.
 
 - 👨‍💻 Working mainly with **Java (Spring Boot)**
 - 💻 Parallely working with **Python**
