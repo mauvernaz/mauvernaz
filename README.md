@@ -5,10 +5,10 @@
 I'm a student at **Universidade Federal Fluminense** and software engineer focused on **Java back-end development**.<br>
 Additionally, I run a **business providing on-demand software solutions for other businesses**.
 
-- 👨‍💻 Working mainly with **Java (Spring Boot)**
-- 💻 Parallely working with **Python**
+- 👨‍💻 Working mainly with **AI Engineering, Agentic AI, Python**
+- 💻 Experienced working with **Java (Spring Boot)**
 - 📚 Studying **Information Systems (UFF)**
-- 🌐 Also interested in: LLM, fine-tuning, automation, systems design and the philosophy of software
+- 🌐 Also interested in: LLM, fine-tuning, automation, systems design, embedded software, Linux, electronics and the philosophy of software
 - 📫 Find me on:
 
 <p align="left">
