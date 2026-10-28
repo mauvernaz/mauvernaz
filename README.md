@@ -18,9 +18,6 @@ Additionally, I run a **business providing on-demand software solutions for othe
   <a href="https://www.linkedin.com/in/malvernaz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.cypo.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/My-Business-green?style=for-the-badge" alt="My Business" />
-  </a>
 </p>
 
 
